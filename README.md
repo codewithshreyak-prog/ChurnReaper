@@ -278,6 +278,27 @@ ChurnReaper helps organizations:
 
 ---
 
+## Dashboard Screenshots
+
+### Main Dashboard
+![Main Dashboard](screenshots/dashboard1.png)
+
+### Churn Distribution
+![Churn Distribution](screenshots/dashboard2.png)
+
+### Customer Analytics
+![Customer Analytics](screenshots/dashboard3.png)
+
+### Feature Importance
+![Feature Importance](screenshots/dashboard4.png)
+
+### SHAP Explainability
+![SHAP Explainability](screenshots/dashboard5.png)
+
+### Churn Prediction
+![Churn Prediction](screenshots/dashboard6.png)
+
+
 ## 👩‍💻 Author
 
 **Shreya Karamchedu**
