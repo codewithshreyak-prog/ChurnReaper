@@ -21,6 +21,12 @@ to help organizations identify at-risk customers and reduce customer loss.
 
 ---
 
+## 🌐 Live Demo
+
+Coming Soon — AWS deployment will be added in ChurnReaper v2.
+
+---
+
 ## 📂 Dataset
 
 Dataset Used:
