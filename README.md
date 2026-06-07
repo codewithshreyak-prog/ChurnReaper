@@ -80,6 +80,22 @@ Target:
 
 - Dash
 
+## 🏗 System Architecture
+
+Data Collection
+      ↓
+Data Preprocessing
+      ↓
+Feature Engineering
+      ↓
+Model Training
+      ↓
+SHAP Explainability
+      ↓
+Dashboard Visualization
+      ↓
+
+
 ---
 
 ## 📈 Exploratory Data Analysis
