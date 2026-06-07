@@ -82,18 +82,19 @@ Target:
 
 ## 🏗 System Architecture
 
-Data Collection
-↓
+```text
+Customer Data
+      ↓
 Data Preprocessing
-↓
+      ↓
 Feature Engineering
-↓
-Model Training
-↓
+      ↓
+Random Forest Model
+      ↓
 SHAP Explainability
-↓
-Dashboard Visualization
-↓
+      ↓
+Interactive Dashboard
+      ↓
 Business Insights & Churn Prediction
 
 
