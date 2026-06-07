@@ -305,6 +305,26 @@ ChurnReaper helps organizations:
 ![Churn Prediction](screenshots/dashboard6.png)
 
 
+
+## 🚀 Project Roadmap
+
+### Version 1.0 ✅
+- Customer Churn Prediction
+- Random Forest Model
+- SHAP Explainability
+- Interactive Dashboard
+- Business Analytics
+
+### Version 2.0 🚧 (In Progress)
+- Docker Containerization
+- GitHub Actions CI/CD
+- AWS Cloud Deployment
+- Public Live URL
+- Production-Ready Deployment
+
+
+
+
 ## 👩‍💻 Author
 
 **Shreya Karamchedu**
