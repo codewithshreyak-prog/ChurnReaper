@@ -358,6 +358,13 @@ ChurnReaper helps organizations:
 
 
 
+## 🌐 Live Demo
+
+Live Application: http://3.16.113.166:8051
+
+
+
+
 ## 👩‍💻 Author
 
 **Shreya Karamchedu**
