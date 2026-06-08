@@ -216,4 +216,4 @@ def predict_customer(n_clicks, tenure, monthly_charges, contract, internet_servi
 
 
 if __name__ == "__main__":
-    app.run(debug=True, port=8051)
+    app.run(host="0.0.0.0", debug=True, port=8051)
