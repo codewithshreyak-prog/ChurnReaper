@@ -363,6 +363,12 @@ ChurnReaper helps organizations:
 Live Application: http://3.16.113.166:8051
 
 
+## Deployment Status
+
+- Dockerized: Completed
+- CI/CD: Completed
+- AWS EC2 Deployment: Completed
+- Live URL: http://3.16.113.166:8051
 
 
 ## 👩‍💻 Author
