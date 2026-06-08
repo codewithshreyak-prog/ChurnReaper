@@ -342,6 +342,21 @@ ChurnReaper helps organizations:
 
 
 
+## DevOps & Deployment
+
+### Docker
+- Containerized using Docker
+- Local container testing completed
+
+### CI/CD
+- GitHub Actions workflow configured
+- Automated Docker build validation on every push
+
+### Cloud Deployment
+- AWS deployment planned in Version 2.0
+
+
+
 
 ## 👩‍💻 Author
 
